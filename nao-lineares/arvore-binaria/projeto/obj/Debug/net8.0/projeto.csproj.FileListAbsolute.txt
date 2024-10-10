@@ -1,0 +1,15 @@
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/bin/Debug/net8.0/projeto
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/bin/Debug/net8.0/projeto.deps.json
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/bin/Debug/net8.0/projeto.runtimeconfig.json
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/bin/Debug/net8.0/projeto.dll
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/bin/Debug/net8.0/projeto.pdb
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.AssemblyInfoInputs.cache
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.AssemblyInfo.cs
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.csproj.CoreCompileInputs.cache
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.sourcelink.json
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.dll
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/refint/projeto.dll
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.pdb
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/projeto.genruntimeconfig.cache
+/workspaces/estrutura_dados/nao-lineares/arvore-binaria/projeto/obj/Debug/net8.0/ref/projeto.dll
